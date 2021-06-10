@@ -7,10 +7,10 @@
 
 <p align="center">
    <a href="#">
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrochas&show_icons=true&theme=midnight-purple&custom_title=ArseniumGX's+Github+stats" />
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrochas&show_icons=true&theme=prussian&custom_title=Gabriel's+Github+stats&hide_border=true" />
    </a>
    <a href="#">
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochas&layout=compact&theme=midnight-purple" />
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochas&layout=compact&theme=prussian&hide_border=true" />
    </a>
 </p>
 
