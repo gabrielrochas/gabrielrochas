@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hey, I'm Gabriel Rocha!
+---
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/13954193/121572418-8a0c4900-c9fa-11eb-86a2-680e95d7cfd3.gif">
+</div>
+<hr>
+
+<p align="center">
+   <a href="#">
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrochas&show_icons=true&theme=midnight-purple&custom_title=ArseniumGX's+Github+stats" />
+   </a>
+   <a href="#">
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochas&layout=compact&theme=midnight-purple" />
+   </a>
+</p>
 
 <!--
 **gabrielrochas/gabrielrochas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrochas)](https://github.com/gabrielrochas/github-readme-stats)
