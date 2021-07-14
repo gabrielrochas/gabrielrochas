@@ -16,7 +16,7 @@
 
 
 <hr>
-### Alguns trabalhos já feitos:
+<h2>Alguns trabalhos já feitos:</h2>
 <ul>
   <li>
     <a href="https://www.meirecortinas.com.br" target="_blank">www.meirecortinas.com.br</a> → site em Wordpress
