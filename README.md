@@ -19,14 +19,18 @@
 ### Alguns trabalhos já feitos:
 <ul>
   <li>
-    <a href="www.meirecortinas.com.br" target="_blank">www.meirecortinas.com.br</a> → site em Wordpress
+    <a href="https://www.meirecortinas.com.br" target="_blank">www.meirecortinas.com.br</a> → site em Wordpress
   </li>
   <li>
-    <a href="mkt.meirecortinas.com.br" target="_blank">mkt.meirecortinas.com.br</a> → sistema para campanhas e-mail marketing feito com o Mautic hospedado em um servidor Ubuntu (EC2 - AWS)
+    <a href="https://mkt.meirecortinas.com.br" target="_blank">mkt.meirecortinas.com.br</a> → sistema para campanhas e-mail marketing feito com o Mautic hospedado em um servidor Ubuntu (EC2 - AWS)
+  </li>
+  <li>
+    <a href="https://barbeariadojuarez.com.br" target="_blank">www.barbeariadojuarez.com.br</a> → site em Wordpress
+  </li>
+  <li>
+    ...
   </li>
 </ul>
-<a href="www.meirecortinas.com.br" target="_blank">www.meirecortinas.com.br</a> → site em Wordpress
-<a href="mkt.meirecortinas.com.br" target="_blank">mkt.meirecortinas.com.br</a> → sistema para campanhas e-mail marketing feito com o Mautic hospedado em um servidor Ubuntu (EC2 - AWS)
 
 <!--
 **gabrielrochas/gabrielrochas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
