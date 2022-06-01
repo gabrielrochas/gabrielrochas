@@ -1,4 +1,4 @@
-### Hey, I'm Gabriel Rocha - I'm just trying to do my best to the World!
+### Hey, I'm Gabriel Rocha - I'm just a good guy with a good heart!
 
 ---
 
